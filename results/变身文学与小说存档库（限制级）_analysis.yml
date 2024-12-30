@@ -1,7 +1,7 @@
 region_summary:
   ? ''
   : 2
-  '[Unknown region(update needed)]': 2
+  '[Unknown region(update needed)]': 3
   东欧: 1
   中国: 97
   中国大陆: 766
@@ -135,7 +135,7 @@ tag_summary:
   VTuber: 1
   Vtuber: 1
   YAoi: 1
-  '[Unknown tags(update needed)]': 2
+  '[Unknown tags(update needed)]': 3
   adult: 1
   bdsm: 1
   binary: 16
