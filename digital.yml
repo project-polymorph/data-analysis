@@ -11,11 +11,15 @@ independence:
     path: https://comic.transchinese.org/
     url: https://comic.transchinese.org/
   
-  - name: 变身文学与小说存档库（剧情向，非限制级，未分类）
+  - name: 变身文学与小说存档库1（剧情向，非限制级，未分类）
     path: https://xnovel.transchinese.org
     url: https://xnovel.transchinese.org
 
-  - name: 变身文学与小说存档库（非限制级，变百或变嫁，已分类）
+  - name: 变身文学与小说存档库2（剧情向，非限制级，未分类）
+    path: https://unovel.transchinese.org
+    url: https://unovel.transchinese.org
+
+  - name: 变身文学与小说存档库3（非限制级，变百或变嫁，已分类）
     path: https://novel.transchinese.org
     url: https://novel.transchinese.org
 
