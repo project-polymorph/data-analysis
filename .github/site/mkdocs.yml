@@ -14,7 +14,7 @@ theme:
     - navigation.instant
     - navigation.instant.progress
     - navigation.tabs
-    - navigation.expand
+    - navigation.prune
     - navigation.path
     - navigation.top
   palette:
