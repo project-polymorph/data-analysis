@@ -58,7 +58,7 @@ extra:
   social:
   - icon: /fontawesome/regular/envelope
     name: send me an email
-    link: mailto:yunwei37@gmail.com
+    link: mailto:admin@transchinese.org
 hooks:
   - hooks/socialmedia.py
 markdown_extensions:
