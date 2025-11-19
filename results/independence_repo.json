@@ -2,70 +2,70 @@
   {
     "name": "跨性别与多元性别新闻网页档案库",
     "url": "https://news.transchinese.org/",
-    "size": 0,
+    "size": 3883,
     "description": "保存各类跨性别与多元性别相关的新闻网页存档和相关图片。",
     "last_updated": null
   },
   {
     "name": "跨性别与多元性别文档档案库",
     "url": "https://digital.transchinese.org/",
-    "size": 0,
+    "size": 1409,
     "description": "保存各类资料、书籍、论文、报告、演示文稿等与跨性别和多元性别相关的独立文件。",
     "last_updated": null
   },
   {
     "name": "伪娘与性转相关漫画存档库",
     "url": "https://comic.transchinese.org/",
-    "size": 0,
+    "size": 3409,
     "description": "保存各类性转相关漫画存档和相关图片。",
     "last_updated": null
   },
   {
     "name": "变身文学与小说存档库一（非限制级，未分类）",
     "url": "https://novel.transchinese.org",
-    "size": 0,
+    "size": 2543,
     "description": "保存各类变身、伪娘、性转文学与小说存档，主要关注剧情，按短篇长篇分类。",
     "last_updated": null
   },
   {
     "name": "变身文学与小说存档库二（非限制级，变百/变嫁）",
     "url": "https://xnovel.transchinese.org",
-    "size": 0,
+    "size": 1714,
     "description": "保存各类变身、伪娘、性转文学与小说存档，按变百或变嫁内容分类，主要关注剧情。可能较老。",
     "last_updated": null
   },
   {
     "name": "变身文学与小说存档库三（非限制级，持续更新）",
     "url": "https://unovel.transchinese.org",
-    "size": 0,
+    "size": 894,
     "description": "保存各类 CDTS、变身、伪娘、性转文学与变身小说存档，持续更新中。",
     "last_updated": null
   },
   {
     "name": "成人变身文学与小说存档库（限制级）",
     "url": "https://snovel.cdtsf.com",
-    "size": 0,
+    "size": 4709,
     "description": "保存各类 CDTS、变身、伪娘、性转文学与小说存档，可能涉及限制级内容。",
     "last_updated": null
   },
   {
     "name": "扶她与双性相关文档小说（成人与限制级）",
     "url": "https://fnovel.cdtsf.com",
-    "size": 0,
+    "size": 1663,
     "description": "包含扶她与双性人相关文档小说（成人与限制级）的内容。",
     "last_updated": null
   },
   {
     "name": "阉割与去势相关文档与小说（限制级）",
     "url": "https://enovel.cdtsf.com",
-    "size": 0,
+    "size": 2075,
     "description": "保存各类阉割、去势、人体改造相关文档与小说档案，涉及限制级内容。",
     "last_updated": null
   },
   {
     "name": "TSF变身文学档案（CDBOOK短篇）",
     "url": "https://archive.cdtsf.com",
-    "size": 0,
+    "size": 10523,
     "description": "包含伪娘、男娘、变性、TS 变身文学与跨性别相关小说（成人与限制级）的内容，主要来自 CDBOOK 网站存档。",
     "last_updated": null
   }
